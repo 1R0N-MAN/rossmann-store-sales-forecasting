@@ -1,0 +1,2 @@
+## Rossmann Store Sales Forecasting
+This project involves predicting sales of 1,115 rossman stores using historical sales data obtained from [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data).
